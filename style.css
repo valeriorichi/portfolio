@@ -34,10 +34,93 @@ p {
   right: -9px
 }
 
+.texthallo {
+  color: white;
+  text-shadow: 2px 2px 2px black, 0 0 25px grey, 0 0 7px darkgrey;
+  text-align: center;
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 20px;
+}
+
+.aboutmyself {
+  background-image: linear-gradient(to bottom, #EAEDED, #C39BD3);
+  text-shadow: 1px 1px 1px #EBDEF0, 0 0 1px grey, 0 0 1px;
+  color: #4A235A;
+  font-family: serif;
+  position: relative;
+  top: -695px;
+  left: 490px;
+  width: 1200px;
+  height: 270px;
+  border-color: #85929E;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+}
+
+.askme {
+  background: #D7BDE2;
+  position: relative;
+  top: -825px;
+  left: 490px;
+  width: 1200px;
+  height: 60px;
+  border-color: #85929E;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+  text-align: left;
+
+}
+
+.truthlie {
+  background-image: linear-gradient(to left, #EAEDED, #C39BD3);
+  color: #4A235A;
+  position: relative;
+  top: -665px;
+  left: 490px;
+  width: 550px;
+  height: 170px;
+  border-color: #85929E;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+}
+
+.contacts {
+  font-family: 'Pacifico';
+  color: #626567;
+  background-image: linear-gradient(to right, #EAEDED, #C39BD3);
+  position: relative;
+  top: -855px;
+  left: 1140px;
+  width: 550px;
+  height: 170px;
+  border-color: #85929E;
+  border-style: solid;
+  border-width: 10px;
+  border-radius: 20px;
+
+}
 
 p {
   font-family: Roboto, sans-serif;
   text-align: margin;
+}
+
+.radio,
+h2 {
+  text-align: center;
+}
+
+.radioo {
+  position: relative;
+  left: 5px;
 }
 
 ul {
